@@ -1,2 +1,2 @@
 # Inverted-Search
-The art and science of hiding information by embedding messages within other, seemingly harmless messages. Bits of unused data are replaced by bits of valuable information using LSB mechanism. Sender and receiver will have individual key / secret based on which they will be able to extract the actual data from the image. 
+	An inverted index is an index data structure storing a mapping from content, such as words or numbers, to its locations in a database file, or in a document or a set of documents. The purpose of an inverted index is to allow fast full text searches, at a cost of increased processing when a document is added to the database.
